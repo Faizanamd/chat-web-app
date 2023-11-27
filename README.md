@@ -23,4 +23,4 @@ This project is a real-time chat application built using Node.js, Express, Socke
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chat-application.git
+   git clone https://github.com/Faizanamd/chat-web-app
